@@ -1,0 +1,59 @@
+body {
+  background-image: url(cover1.jpg);
+
+}
+
+h1 {
+	text-align: center;
+	padding: 23px;
+	background-color: skyblue;
+	color: rgba(207, 40, 82, 0.849);
+  font-size: xx-large;
+
+}
+
+#clear {
+  width: 270px;
+  border: 3px solid gray;
+	border-radius: 3px;
+	padding: 20px;
+	background-color: rgba(187, 26, 26, 0.644);
+}
+
+.formstyle {
+  width: 300px;
+  height: 550px;
+  margin: auto;
+  border: 3px solid skyblue;
+  border-radius: 5px;
+  padding: 20px;
+  align-content: center;
+
+}
+
+input {
+  width: 20px;
+  background-color: green;
+  color: white;
+  border: 2px solid gray;
+	border-radius: 5px;
+	padding: 26px;
+	margin: 5px;
+	font-size: 15px;
+
+}
+
+#calc {
+  width: 250px;
+  border: 5px solid black;
+	border-radius: 3px;
+	padding: 15px;
+	margin: auto;
+
+}
+
+#shad {
+  box-shadow: 5px 5px 8px blue, 10px 10px 8px red, 15px 15px 8px green;
+  background-color: rgba(171, 228, 13, 0.63);
+  
+}
